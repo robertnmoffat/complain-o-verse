@@ -1,0 +1,20 @@
+{
+  "name": "complain-o-verse-backend",
+  "version": "1.0.0",
+  "description": "Server for CRUD operations on database.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertnmoffat/complain-o-verse.git"
+  },
+  "author": "Robert Moffat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertnmoffat/complain-o-verse/issues"
+  },
+  "homepage": "https://github.com/robertnmoffat/complain-o-verse#readme"
+}
